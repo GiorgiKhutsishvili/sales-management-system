@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{5ECD2B8E-EA96-44CE-B7FA-BF69CE3B9D5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{4563F91D-EFE5-4A5A-8A8A-C410827050F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.WebAPI", "Web\SMS.WebAPI\SMS.WebAPI.csproj", "{5023A313-06FD-42F9-AAA6-624C6A835A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Business", "Libraries\SMS.Business\SMS.Business.csproj", "{FF6CC114-7505-4082-AA1D-CD5B9576EE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Common", "Libraries\SMS.Common\SMS.Common.csproj", "{B9A759EA-A054-4292-824C-F036A485257D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Core", "Libraries\SMS.Core\SMS.Core.csproj", "{BCDD4889-570E-4FF3-995F-9795DCCD3A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.Persistence", "Libraries\SMS.Persistence\SMS.Persistence.csproj", "{61459121-968D-4AAB-A309-06029DDAC1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5023A313-06FD-42F9-AAA6-624C6A835A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5023A313-06FD-42F9-AAA6-624C6A835A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5023A313-06FD-42F9-AAA6-624C6A835A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5023A313-06FD-42F9-AAA6-624C6A835A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6CC114-7505-4082-AA1D-CD5B9576EE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6CC114-7505-4082-AA1D-CD5B9576EE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6CC114-7505-4082-AA1D-CD5B9576EE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6CC114-7505-4082-AA1D-CD5B9576EE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A759EA-A054-4292-824C-F036A485257D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A759EA-A054-4292-824C-F036A485257D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A759EA-A054-4292-824C-F036A485257D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A759EA-A054-4292-824C-F036A485257D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCDD4889-570E-4FF3-995F-9795DCCD3A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDD4889-570E-4FF3-995F-9795DCCD3A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDD4889-570E-4FF3-995F-9795DCCD3A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDD4889-570E-4FF3-995F-9795DCCD3A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61459121-968D-4AAB-A309-06029DDAC1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61459121-968D-4AAB-A309-06029DDAC1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61459121-968D-4AAB-A309-06029DDAC1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61459121-968D-4AAB-A309-06029DDAC1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5023A313-06FD-42F9-AAA6-624C6A835A10} = {4563F91D-EFE5-4A5A-8A8A-C410827050F9}
+		{FF6CC114-7505-4082-AA1D-CD5B9576EE55} = {5ECD2B8E-EA96-44CE-B7FA-BF69CE3B9D5B}
+		{B9A759EA-A054-4292-824C-F036A485257D} = {5ECD2B8E-EA96-44CE-B7FA-BF69CE3B9D5B}
+		{BCDD4889-570E-4FF3-995F-9795DCCD3A28} = {5ECD2B8E-EA96-44CE-B7FA-BF69CE3B9D5B}
+		{61459121-968D-4AAB-A309-06029DDAC1A9} = {5ECD2B8E-EA96-44CE-B7FA-BF69CE3B9D5B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF8BCC8-6BED-401C-8253-5848BBB6C2A4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\bin\Debug\net5.0\SMS.Common.deps.json
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\bin\Debug\net5.0\SMS.Common.dll
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\bin\Debug\net5.0\ref\SMS.Common.dll
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\bin\Debug\net5.0\SMS.Common.pdb
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.AssemblyInfo.cs
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.dll
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\ref\SMS.Common.dll
+C:\Users\admin\Desktop\Galt\SMS.Backend\Libraries\SMS.Common\obj\Debug\net5.0\SMS.Common.pdb
